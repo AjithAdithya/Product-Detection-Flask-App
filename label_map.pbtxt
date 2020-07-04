@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Harpic'
+}
+
+item {
+    id: 2
+    name: 'Horlicks'
+}
+
+item {
+    id: 3
+    name: 'Kelllogs'
+}
+
+item {
+    id: 4
+    name: 'Tide'
+}
